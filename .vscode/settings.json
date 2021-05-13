@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/shivam/anaconda3/envs/ravin_sight/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
